@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+Born and bred on planet Earth, in case you humans will have intergalactic colonies.
 
 <!--
 **baskoroi/baskoroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a full-stack engineer at [OKHOME Indonesia](https://okhome.id).
+- 🌱 I'm currently learning large-scale refactoring, software architecture, and web performance engineering. (Again, still learning!)
+- 🤔 I’m looking for help with modernizing legacy code & architecture!
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/baskoroi), [Twitter](https://twitter.com/baskoroi_), or [email](mailto:baskoroindrayana@gmail.com).
+- 😄 Pronouns: he, him, his. :)
+- ⚡ Fun fact: I love rock music since age 6, and heavy metal since 12.
